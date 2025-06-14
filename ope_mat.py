@@ -11,3 +11,5 @@ elif operador == "*":
     print(num1 * num2),
 elif operador == "/":
     print(num1 / num2)
+else:
+    print("operação inválida")
